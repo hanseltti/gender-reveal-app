@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gender-reveal-app/static/css/main.9d6b6cf2.css",
+    "main.js": "/gender-reveal-app/static/js/main.975b59ff.js",
+    "static/js/488.88994cd1.chunk.js": "/gender-reveal-app/static/js/488.88994cd1.chunk.js",
+    "index.html": "/gender-reveal-app/index.html",
+    "main.9d6b6cf2.css.map": "/gender-reveal-app/static/css/main.9d6b6cf2.css.map",
+    "main.975b59ff.js.map": "/gender-reveal-app/static/js/main.975b59ff.js.map",
+    "488.88994cd1.chunk.js.map": "/gender-reveal-app/static/js/488.88994cd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d6b6cf2.css",
+    "static/js/main.975b59ff.js"
+  ]
+}
